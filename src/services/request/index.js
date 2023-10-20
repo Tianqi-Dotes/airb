@@ -1,5 +1,5 @@
-    import axios from 'axios'
-    import {BASE_URL,TIMEOUT} from './config'
+    import axios from 'axios';
+    import {BASE_URL,TIMEOUT} from './config';
 
 
     class HYRequest{
